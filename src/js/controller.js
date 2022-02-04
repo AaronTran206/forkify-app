@@ -134,3 +134,5 @@ const init = function () {
   addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 init();
+
+console.log('Welcome to the application! :)');
